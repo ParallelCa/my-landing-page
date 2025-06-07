@@ -1,17 +1,11 @@
-# SaaS Company Landing Page
+**Introduction**
+This is a static landing page implemented with pure HTML/CSS/JavaScript, with the following core features:
+Top navigation bar (including anchor jump and mobile hamburger menu)
+Responsive layout, support for multiple screen sizes (using Flexbox and CSS Grid)
+Contact form and user review card
+Deployed to GitHub Pages, achieving zero build online
 
-This is part of my [YouTube HTML/CSS tutorial](https://www.youtube.com/watch?v=HXYZxVbWkjc) on building a professional website for beginners.
-
-This project is from the [iCodeThis](https://icodethis.com/?ref=traversy) challenge website and does not use any frameworks or libraries. It is built with pure HTML and CSS and a bit of JavaScript for the hamburger menu and the FAQ accordion.
-
-<img src="./images/screen.png" width="500" style="display:block;margin: 40px auto" />
-
-## Steps to use Docker 
-
-```shell
-docker build -t saas-landing-page:1 .
-```
-
-```shell
-docker run -d -p 80:80 saas-landing-page:1
-```
+**How to run**
+This project is a pure static website, no need to install any build tools. There are three ways to run quickly:
+Open directly
+Double-click index.html in the file manager, or File → Open the file in the browser.
