@@ -1,4 +1,3 @@
-// Toggle menu for mobile view
 const menuButton = document.querySelector('.menu-button');
 const navMenu = document.querySelector('.navbar ul');
 
@@ -6,7 +5,6 @@ menuButton.addEventListener('click', () => {
   navMenu.classList.toggle('active');
 });
 
-// Example function for scroll animation (smooth scroll to sections)
 const links = document.querySelectorAll('.navbar a');
 links.forEach(link => {
   link.addEventListener('click', function (e) {
