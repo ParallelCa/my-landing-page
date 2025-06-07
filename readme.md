@@ -8,12 +8,8 @@ Responsive layout, support for multiple screen sizes (using Flexbox and CSS Grid
 
 Contact form and user review card
 
-Deployed to GitHub Pages, achieving zero build online
+Deployed to GitHub Pages
 
 **How to run**
 
-This project is a pure static website, no need to install any build tools. There are three ways to run quickly:
-
-Open directly
-
-Double-click index.html in the file manager, or File → Open the file in the browser.
+This project is a pure static website, no need to install any build tools. Open directly, Double-click index.html in the file manager, or File → Open the file in the browser.
